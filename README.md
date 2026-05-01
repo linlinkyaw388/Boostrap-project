@@ -1,4 +1,3 @@
-https://linlinkyaw388.github.io/Boostrap-project/
 
 # Boostrap Home Decoration Page
 
